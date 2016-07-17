@@ -1,3 +1,4 @@
 # hello fangbz hh
-# new line
-# hello 
+# new 分支造成的冲突
+# hello 呵呵
+好吧
